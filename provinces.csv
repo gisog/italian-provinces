@@ -1,0 +1,108 @@
+province_it,province_en,lat,lng,type,code,capital_province_it,capital_province_en,capital_region,regions_en,regions_it,macro-region,,,,,,,,,,,
+Agrigento,Agrigento,37.316667,13.566667,Free Municipal Consortium,AG,Agrigento,Agrigento,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Alessandria,Alessandria,44.9,8.616667,Ordinary,AL,Alessandria,Alessandria,No,Piedmont,Piemonte,North-West,,,,,,,,,,,
+Ancona,Ancona,43.633333,13.5,Ordinary,AN,Ancona,Ancona,Yes,Marche,Marche,Centre,,,,,,,,,,,
+Aosta,Aosta,45.733333,7.333333,Abolished,AO,Aosta,Aosta,Yes,Valle d’Aosta,Valle d'Aosta ,North-West,,,,,,,,,,,
+Arezzo,Arezzo,43.416667,11.883333,Ordinary,AR,Arezzo,Arezzo,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Ascoli Piceno,Ascoli Piceno,42.85,13.566667,Ordinary,AP,Ascoli Piceno,Ascoli Piceno,No,Marche,Marche,Centre,,,,,,,,,,,
+Asti,Asti,44.9,8.2,Ordinary,AT,Asti,Asti,No,Piedmont,Piemonte,North-West,,,,,,,,,,,
+Avellino,Avellino,40.9,14.783333,Ordinary,AV,Avellino,Avellino,No,Campania,Campania,South,,,,,,,,,,,
+Bari,Bari,41.133333,16.85,Metropolitan,BA,Bari,Bari,Yes,Puglia,Puglia,South,,,,,,,,,,,
+Barletta-Andria-Trani,Barletta-Andria-Trani,41.316667,16.283333,Ordinary,BT,Barletta,Barletta,No,Puglia,Puglia,South,,,,,,,,,,,
+Belluno,Belluno,46145,12.221389,Ordinary,BL,Belluno,Belluno,No,Veneto,Veneto,North-East,,,,,,,,,,,
+Benevento,Benevento,41.133333,14.75,Ordinary,BN,Benevento,Benevento,No,Campania,Campania,South,,,,,,,,,,,
+Bergamo,Bergamo,45.683333,9.716667,Ordinary,BG,Bergamo,Bergamo,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Biella,Biella,45.566667,8.05,Ordinary,BI,Biella,Biella,No,Piedmont,Piemonte,North-West,,,,,,,,,,,
+Bologna,Bologna,44.483333,11.333333,Metropolitan,BO,Bologna,Bologna,Yes,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+South Tyrol,South Tyrol,46.516667,11.366667,Autonomous,BZ,Bolzano,Bolzano,No,Trentino-Alto Adige,Trentino-Alto Adige,North-East,,,,,,,,,,,
+Brescia,Brescia,45.55,10.25,Ordinary,BS,Brescia,Brescia,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Brindisi,Brindisi,40.633333,17.933333,Ordinary,BR,Brindisi,Brindisi,No,Puglia,Puglia,South,,,,,,,,,,,
+Cagliari,Cagliari,39.216667,9.116667,Metropolitan,CA,Cagliari,Cagliari,Yes,Sardegna,Sardegna,Insular,,,,,,,,,,,
+Caltanissetta,Caltanissetta,37.483333,14.066667,Free Municipal Consortium,CL,Caltanissetta,Caltanissetta,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Campobasso,Campobasso,41.566667,14.65,Ordinary,CB,Campobasso,Campobasso,Yes,Molise,Molise,South,,,,,,,,,,,
+Caserta,Caserta,41.066667,14.333333,Ordinary,CE,Caserta,Caserta,No,Campania,Campania,South,,,,,,,,,,,
+Catania,Catania,37.5,15.1,Metropolitan,CT,Catania,Catania,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Catanzaro,Catanzaro,38.9,16.583333,Ordinary,CZ,Catanzaro,Catanzaro,Yes,Calabria,Calabria,South,,,,,,,,,,,
+Chieti,Chieti,42.35,14.166667,Ordinary,CH,Chieti,Chieti,No,Abruzzo,Abruzzo,South,,,,,,,,,,,
+Como,Como,45.783333,9.083333,Ordinary,CO,Como,Como,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Cosenza,Cosenza,39.3,16.25,Ordinary,CS,Cosenza,Cosenza,No,Calabria,Calabria,South,,,,,,,,,,,
+Cremona,Cremona,45.116667,10.033333,Ordinary,CR,Cremona,Cremona,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Crotone,Crotone,39.083333,17.133333,Ordinary,KR,Crotone,Crotone,No,Calabria,Calabria,South,,,,,,,,,,,
+Cuneo,Cuneo,44.383333,7.533333,Ordinary,CN,Cuneo,Cuneo,No,Piedmont,Piemonte,North-West,,,,,,,,,,,
+Enna,Enna,37.566667,14.266667,Free Municipal Consortium,EN,Enna,Enna,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Fermo,Fermo,43.15,13.716667,Ordinary,FM,Fermo,Fermo,No,Marche,Marche,Centre,,,,,,,,,,,
+Ferrara,Ferrara,44.833333,11.583333,Ordinary,FE,Ferrara,Ferrara,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Firenze,Florence,43.766667,11.25,Metropolitan,FI,Firenze,Florence,Yes,Tuscany,Toscana,Centre,,,,,,,,,,,
+Foggia,Foggia,41.45,15.566667,Ordinary,FG,Foggia,Foggia,No,Puglia,Puglia,South,,,,,,,,,,,
+Forlì-Cesena,Forlì-Cesena,44.2225,12.040833,Ordinary,FC,Forlì,Forlì,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Frosinone,Frosinone,41.633333,13.316667,Ordinary,FR,Frosinone,Frosinone,No,Lazio,Lazio,Centre,,,,,,,,,,,
+Genova,Genoa,44.416667,8.95,Metropolitan,GE,Genova,Genoa,Yes,Liguria,Liguria,North-West,,,,,,,,,,,
+Gorizia,Gorizia,45945,13.597778,Abolished,GO,Gorizia,Gorizia,No,Friuli-Venezia Giulia,Friuli-Venezia Giulia,North-East,,,,,,,,,,,
+Grosseto,Grosseto,42.766667,11.133333,Ordinary,GR,Grosseto,Grosseto,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Imperia,Imperia,43.883333,8.05,Ordinary,IM,Imperia,Imperia,No,Liguria,Liguria,North-West,,,,,,,,,,,
+Isernia,Isernia,41.6012,14.2391,Ordinary,IS,Isernia,Isernia,No,Molise,Molise,South,,,,,,,,,,,
+L’Aquila,L’Aquila,42.366667,13.366667,Ordinary,AQ,L’Aquila,L’Aquila,Yes,Abruzzo,Abruzzo,North-West,,,,,,,,,,,
+La Spezia,La Spezia,44.116667,9.833333,Ordinary,SP,La Spezia,La Spezia,No,Liguria,Liguria,South,,,,,,,,,,,
+Latina,Latina,41.466667,12.866667,Ordinary,LT,Latina,Latina,No,Lazio,Lazio,Centre,,,,,,,,,,,
+Lecce,Lecce,40.383333,18.183333,Ordinary,LE,Lecce,Lecce,No,Puglia,Puglia,South,,,,,,,,,,,
+Lecco,Lecco,45.85,9.383333,Ordinary,LC,Lecco,Lecco,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Livorno,Livorno,43.55,10.316667,Ordinary,LI,Livorno,Livorno,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Lodi,Lodi,45.316667,9.5,Ordinary,LO,Lodi,Lodi,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Lucca,Lucca,43.833333,10.483333,Ordinary,LU,Lucca,Lucca,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Macerata,Macerata,43.3,13.45,Ordinary,MC,Macerata,Macerata,No,Marche,Marche,Centre,,,,,,,,,,,
+Mantova,Mantova,45.15,10.8,Ordinary,MN,Mantova,Mantova,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Massa-Carrara,Massa-Carrara,44.033333,10.133333,Ordinary,MS,Massa,Massa,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Matera,Matera,40.666667,16.6,Ordinary,MT,Matera,Matera,No,Basilicata,Basilicata,South,,,,,,,,,,,
+Messina,Messina,38.183333,15.566667,Metropolitan,ME,Messina,Messina,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Milano,Milan,45.466667,9.2,Metropolitan,MI,Milano,Milan,Yes,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Modena,Modena,44.666667,10.916667,Ordinary,MO,Modena,Modena,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Monza e Brianza ,Monza e Brianza ,45.583333,9.266667,Ordinary,MB,Monza,Monza,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Napoli,Naples,40.833333,14.25,Metropolitan,NA,Napoli,Naples,Yes,Campania,Campania,South,,,,,,,,,,,
+Novara,Novara,45.466667,8.633333,Ordinary,NO,Novara,Novara,No,Piedmont,Piemonte,North-West,,,,,,,,,,,
+Nuoro,Nuoro,40.316667,9.35,Ordinary,NU,Nuoro,Nuoro,No,Sardegna,Sardegna,Insular,,,,,,,,,,,
+Oristano,Oristano,39.903056,8.591944,Ordinary,OR,Oristano,Oristano,No,Sardegna,Sardegna,Insular,,,,,,,,,,,
+Padova,Padova,45.416667,11.883333,Ordinary,PD,Padova,Padova,No,Veneto,Veneto,North-East,,,,,,,,,,,
+Palermo,Palermo,38.116667,13.366667,Metropolitan,PA,Palermo,Palermo,Yes,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Parma,Parma,44.8,10.333333,Ordinary,PR,Parma,Parma,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Pavia,Pavia,45.166667,9.166667,Ordinary,PV,Pavia,Pavia,No,Lombardy,Lombardia,North-West,,,,,,,,,,,
+Perugia,Perugia,43.133333,12.366667,Ordinary,PG,Perugia,Perugia,Yes,Umbria,Umbria,Centre,,,,,,,,,,,
+Pesaro-Urbino,Pesaro-Urbino,43.91015,12.9133,Ordinary,PU,Pesaro,Pesaro,No,Marche,Marche,Centre,,,,,,,,,,,
+Pescara,Pescara,42.466667,14.216667,Ordinary,PE,Pescara,Pescara,No,Abruzzo,Abruzzo,South,,,,,,,,,,,
+Piacenza,Piacenza,45.016667,9.666667,Ordinary,PC,Piacenza,Piacenza,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Pisa,Pisa,43.716667,10.383333,Ordinary,PI,Pisa,Pisa,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Pistoia,Pistoia,43.916667,10.9,Ordinary,PT,Pistoia,Pistoia,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Pordenone,Pordenone,45.963889,12.6575,Abolished,PN,Pordenone,Pordenone,No,Friuli-Venezia Giulia,Friuli-Venezia Giulia,North-East,,,,,,,,,,,
+Potenza,Potenza,40.633333,15.8,Ordinary,PZ,Potenza,Potenza,Yes,Basilicata,Basilicata,South,,,,,,,,,,,
+Prato,Prato,43.883333,11.1,Ordinary,PO,Prato,Prato,No,Tuscany,Toscana,Centre,,,,,,,,,,,
+Ragusa,Ragusa,36.916667,14.733333,Free Municipal Consortium,RG,Ragusa,Ragusa,No,Sicilia,Sicilia,Insular,,,,,,,,,,,
+Ravenna,Ravenna,44.4175,12.201111,Ordinary,RA,Ravenna,Ravenna,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Reggio Calabria,Reggio Calabria,38.1,15.65,Metropolitan,RC,Reggio Calabria,Reggio Calabria,No,Calabria,Calabria,South,,,,,,,,,,,
+Reggio Emilia,Reggio Emilia,44.716667,10.6,Ordinary,RE,Reggio Emilia,Reggio Emilia,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Rieti,Rieti,42.4,12.85,Ordinary,RI,Rieti,Rieti,No,Lazio,Lazio,Centre,,,,,,,,,,,
+Rimini,Rimini,44.063333,12.580833,Ordinary,RN,Rimini,Rimini,No,Emilia-Romagna,Emilia-Romagna,North-East,,,,,,,,,,,
+Roma,Rome,41.9,12.483333,Metropolitan,RM,Roma,Rome,Yes,Lazio,Lazio,Centre,,,,,,,,,,,Virginia Raggi (M5S)
+Rovigo,Rovigo,45.066667,11.783333,Ordinary,RO,Rovigo,Rovigo,No,Veneto,Veneto,North-East,,,,,,,,,,,Marco Trombini (FI)
+Salerno,Salerno,40.683333,14.783333,Ordinary,SA,Salerno,Salerno,No,Campania,Campania,South,,,,,,,,,,,Giuseppe Canfora (PD)
+Sassari,Sassari,40.727222,8.560278,Ordinary,SS,Sassari,Sassari,No,Sardegna,Sardegna,Insular,,,,,,,,,,,Guido Sechi (commissar)
+Savona,Savona,44.283333,8.5,Ordinary,SV,Savona,Savona,No,Liguria,Liguria,North-West,,,,,,,,,,,Monica Giuliano (PD)
+Siena,Siena,43.316667,11.35,Ordinary,SI,Siena,Siena,No,Tuscany,Toscana,Centre,,,,,,,,,,,Fabrizio Nepi (PD)
+Siracusa,Siracusa,37.066667,15.3,Ordinary,SR,Siracusa,Siracusa,No,Sicilia,Sicilia,North-West,,,,,,,,,,,Luca Della Bitta (CR)
+Sondrio,Sondrio,46.166667,9.866667,Ordinary,SO,Sondrio,Sondrio,No,Lombardy,Lombardia,Insular,,,,,,,,,,,Mario Mossa (commissar)
+Sud Sardegna,South Sardinia,39.15,8.516667,Autonomous,SD,Carbonia,Carbonia,No,Sardegna,Sardegna,North-East,,,,,,,,,,,Arno Kompatscher (SVP)
+Taranto,Taranto,40.476111,17.229722,Ordinary,TA,Taranto,Taranto,No,Puglia,Puglia,South,,,,,,,,,,,Martino Carmelo Tamburrano (FI)
+Teramo,Teramo,42.65,13.7,Ordinary,TE,Teramo,Teramo,No,Abruzzo,Abruzzo,South,,,,,,,,,,,"Domenico ""Renzo"" Di Sabatino (PD)"
+Terni,Terni,42.566667,12.616667,Ordinary,TR,Terni,Terni,No,Umbria,Umbria,Centre,,,,,,,,,,,Giampiero Lattanzi (PD)
+Torino,Turin,45.05,7.666667,Metropolitan,TO,Torino,Turin,Yes,Piedmont,Piemonte,Insular,,,,,,,,,,,Giuseppe Amato (commissar)
+Trapani,Trapani,38.016667,12.483333,Free,TP,Trapani,Trapani,No,Sicilia,Sicilia,North-East,,,,,,,,,,,Ugo Rossi (PATT)
+Trento,Trento,46.066667,11.133333,Autonomous,TN,Trento,Trento,Yes,Trentino-Alto Adige,Trentino-Alto Adige,North-East,,,,,,,,,,,Stefano Marcon (LN)
+Treviso,Treviso,45.666667,12245,Ordinary,TV,Treviso,Treviso,No,Veneto,Veneto,North-East,,,,,,,,,,,
+Trieste,Trieste,45.648611,13.78,Abolished,TS,Trieste,Trieste,Yes,Friuli-Venezia Giulia,Friuli-Venezia Giulia,North-West,,,,,,,,,,,Chiara Appendino (M5S)
+Udine,Udine,46.061944,13.242222,Abolished,UD,Udine,Udine,No,Friuli-Venezia Giulia,Friuli-Venezia Giulia,North-East,,,,,,,,,,,
+Varese,Varese,45.8,8.833333,Ordinary,VA,Varese,Varese,No,Lombardy,Lombardia,North-West,,,,,,,,,,,Nicola Gunnar Vincenzi (PD)
+Venezia,Venice,45.438611,12.326667,Metropolitan,VE,Venezia,Venice,Yes,Veneto,Veneto,North-East,,,,,,,,,,,Luigi Brugnaro CR
+Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,45.93333,8.533333,Ordinary,VB,Verbania,Verbania,No,Piedmont,Piemonte,North-West,,,,,,,,,,,Stefano Costa (PD)
+Vercelli,Vercelli,45.316667,8.416667,Ordinary,VC,Vercelli,Vercelli,No,Piedmont,Piemonte,North-West,,,,,,,,,,,Carlo Riva Vercellotti (FI)
+Verona,Verona,45.45,11.0,Ordinary,VR,Verona,Verona,No,Veneto,Veneto,North-East,,,,,,,,,,,Antonio Pastorello (FI)
+Vibo Valentia,Vibo Valentia,38.666667,16.1,Ordinary,VV,Vibo Valentia,Vibo Valentia,No,Calabria,Calabria,South,,,,,,,,,,,Andrea Niglia (IND)
+Vicenza,Vicenza,45.55,11.55,Ordinary,VI,Vicenza,Vicenza,No,Veneto,Veneto,North-East,,,,,,,,,,,Achille Variati (PD)
+Viterbo,Viterbo,42.416667,12.1,Ordinary,VT,Viterbo,Viterbo,No,Lazio,Lazio,Centre,,,,,,,,,,,
